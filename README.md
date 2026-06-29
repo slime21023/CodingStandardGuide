@@ -9,6 +9,7 @@
 | [CONTRIBUTING.md](CONTRIBUTING.md) | 團隊共同開發流程、Git、Commit、PR、Review、測試與文件規範 |
 | [JavaScript / TypeScript](docs/languages/javascript-typescript.md) | Node.js、Bun、ESLint、型別與測試規範 |
 | [Python](docs/languages/python.md) | Python、Ruff、型別註記、虛擬環境與測試規範 |
+| [Go](docs/languages/go.md) | Go modules、gofmt、錯誤處理、Context、Concurrency 與測試規範 |
 | [Java](docs/languages/java.md) | Java、Maven / Gradle、例外處理、測試與分層規範 |
 | [Kotlin](docs/languages/kotlin.md) | Kotlin、Gradle、Null Safety、Coroutine 與測試規範 |
 | [Release Process](docs/release-process.md) | CalVer 版本規則、發版檢查與回滾原則 |
